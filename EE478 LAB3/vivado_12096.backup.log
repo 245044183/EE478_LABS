@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct  7 09:00:18 2019
+# Process ID: 12096
+# Current directory: E:/EE478 LAB3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12336 E:\EE478 LAB3\lab3.xpr
+# Log file: E:/EE478 LAB3/vivado.log
+# Journal file: E:/EE478 LAB3\vivado.jou
+#-----------------------------------------------------------sstart_guiopen_project {E:/EE478 LAB3/lab3.xpr}
+SScanning sources...FFinished scanning sourcesIINFO: [IP_Flow 19-234] Refreshing IP repositoriesIINFO: [IP_Flow 19-1704] No user IP repositories specifiedIINFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:41 . Memory (MB): peak = 679.004 ; gain = 75.434
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct  7 09:02:52 2019...
+as been returned to its previous state.
+INFO: [Common 17-344] 'open_project' was cancelled
+eexit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct  7 09:03:18 2019...

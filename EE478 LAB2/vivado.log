@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct 28 10:28:04 2019
+# Process ID: 1000
+# Current directory: E:/EE478 LAB2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10116 E:\EE478 LAB2\project_1.xpr
+# Log file: E:/EE478 LAB2/vivado.log
+# Journal file: E:/EE478 LAB2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/EE478 LAB2/project_1.xpr}
+INFO: [Project 1-313] Project file moved from 'F:/EE478 LAB2' since last save.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/Chen/Desktop/Fulladder.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/Chen/Desktop/adder2.vhd'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:06 . Memory (MB): peak = 691.926 ; gain = 93.418
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct 28 10:28:50 2019...
